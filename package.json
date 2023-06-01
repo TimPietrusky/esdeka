@@ -65,7 +65,6 @@
     "dev": "yarn rollup -w",
     "eslint": "eslint 'src/{**/*,*}.{js,ts}'",
     "eslint:fix": "yarn eslint --fix",
-    "postinstall": "husky install",
     "lint": "yarn tsc:noEmit && yarn eslint",
     "ncu": "yarn dlx npm-check-updates -u --dep='prod,dev'",
     "ncu:minor": "yarn ncu -t minor",
