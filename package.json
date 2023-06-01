@@ -133,6 +133,6 @@
   },
   "packageManager": "yarn@3.2.0",
   "engines": {
-    "node": "^16 | ^17 | ^18"
+    "node": "^16 | ^17 | ^18 | ^19"
   }
 }
